@@ -1,0 +1,31 @@
+{
+  "name": "assignment-3-network-journal",
+  "version": "1.0.0",
+  "description": "Network Journal",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app/express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csc309-18s/assignment-3-network-journal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csc309-18s/assignment-3-network-journal/issues"
+  },
+  "homepage": "https://github.com/csc309-18s/assignment-3-network-journal#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "client-sessions": "^0.8.0",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.5",
+    "mongoose": "^5.0.11",
+    "yelp-fusion": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}

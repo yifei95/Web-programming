@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Tom",
+        "password": "tom",
+        "email": "tom@gmail.com",
+        "school": "University of Toronto",
+        "currentStatus": 1,
+        "contacts": [],
+        "meetings": []
+    },
+    {
+        "id": "2",
+        "name": "Bill",
+        "password": "bill",
+        "email": "bill@gmail.com",
+        "school": "University of Toronto",
+        "currentStatus": 1,
+        "contacts": [],
+        "meetings": []
+    }
+]
